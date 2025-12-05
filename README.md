@@ -29,4 +29,9 @@ This repository contains all the projects I’ve completed as part of the [Datab
 
 ### 🟢 Easy
 
-- ✅ [Computer Store Database]: _In Progress_
+- 🚧 Coloring: _In progress_
+- ⏳ Computer Store Database: _Not started_
+- ⏳ Electronics Store Customer: _Not started_
+- ⏳ Airline Transportation: _Not started_
+- ⏳ Battleship Database: _Not started_
+- ⏳ Computer Store Database: _Not started_
